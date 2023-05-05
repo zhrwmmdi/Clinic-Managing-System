@@ -1,0 +1,4 @@
+Patient's name: Ahmad Sarabi		Patient's ID: 020333659		Illness: heart		Doctor: Dr.Mehdi Moradi
+Patient's name: Ahmad Sarabi		Patient's ID: 020333659		Illness: heart		Doctor: Dr.Mehdi Moradi
+Patient's name: Ahmad Sarabi		Patient's ID: 020333659		Illness: heart		Doctor: Dr.Mehdi Moradi
+Patient's name: Ahmad Sarabi		Patient's ID: 020333659		Illness: heart		Doctor: Dr.Mehdi Moradi
